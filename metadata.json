@@ -1,0 +1,8 @@
+{
+  "name": "Remix متجر دبات التلوث الديزل والبنزين",
+  "description": "متجر الكتروني متخصص في دبات التلوث، فلاتر ديزل DPF، ودبات البيئة للبنزين مع الدفع عبر واتساب أعمال، دردشة مباشرة، تخصيص الخلفيات والثيمات، ومحرر الصور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
